@@ -1,0 +1,14 @@
+C:\Users\morga\OneDrive\Desktop\SoftwareDevelopment\ProgrammingC#\ProgrammingFoundationsCSharp\PFCSLesson03HandsOn\CollectionsAndLoops\bin\Debug\net7.0\CollectionsAndLoops.exe
+C:\Users\morga\OneDrive\Desktop\SoftwareDevelopment\ProgrammingC#\ProgrammingFoundationsCSharp\PFCSLesson03HandsOn\CollectionsAndLoops\bin\Debug\net7.0\CollectionsAndLoops.deps.json
+C:\Users\morga\OneDrive\Desktop\SoftwareDevelopment\ProgrammingC#\ProgrammingFoundationsCSharp\PFCSLesson03HandsOn\CollectionsAndLoops\bin\Debug\net7.0\CollectionsAndLoops.runtimeconfig.json
+C:\Users\morga\OneDrive\Desktop\SoftwareDevelopment\ProgrammingC#\ProgrammingFoundationsCSharp\PFCSLesson03HandsOn\CollectionsAndLoops\bin\Debug\net7.0\CollectionsAndLoops.dll
+C:\Users\morga\OneDrive\Desktop\SoftwareDevelopment\ProgrammingC#\ProgrammingFoundationsCSharp\PFCSLesson03HandsOn\CollectionsAndLoops\bin\Debug\net7.0\CollectionsAndLoops.pdb
+C:\Users\morga\OneDrive\Desktop\SoftwareDevelopment\ProgrammingC#\ProgrammingFoundationsCSharp\PFCSLesson03HandsOn\CollectionsAndLoops\obj\Debug\net7.0\CollectionsAndLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\morga\OneDrive\Desktop\SoftwareDevelopment\ProgrammingC#\ProgrammingFoundationsCSharp\PFCSLesson03HandsOn\CollectionsAndLoops\obj\Debug\net7.0\CollectionsAndLoops.AssemblyInfoInputs.cache
+C:\Users\morga\OneDrive\Desktop\SoftwareDevelopment\ProgrammingC#\ProgrammingFoundationsCSharp\PFCSLesson03HandsOn\CollectionsAndLoops\obj\Debug\net7.0\CollectionsAndLoops.AssemblyInfo.cs
+C:\Users\morga\OneDrive\Desktop\SoftwareDevelopment\ProgrammingC#\ProgrammingFoundationsCSharp\PFCSLesson03HandsOn\CollectionsAndLoops\obj\Debug\net7.0\CollectionsAndLoops.csproj.CoreCompileInputs.cache
+C:\Users\morga\OneDrive\Desktop\SoftwareDevelopment\ProgrammingC#\ProgrammingFoundationsCSharp\PFCSLesson03HandsOn\CollectionsAndLoops\obj\Debug\net7.0\CollectionsAndLoops.dll
+C:\Users\morga\OneDrive\Desktop\SoftwareDevelopment\ProgrammingC#\ProgrammingFoundationsCSharp\PFCSLesson03HandsOn\CollectionsAndLoops\obj\Debug\net7.0\refint\CollectionsAndLoops.dll
+C:\Users\morga\OneDrive\Desktop\SoftwareDevelopment\ProgrammingC#\ProgrammingFoundationsCSharp\PFCSLesson03HandsOn\CollectionsAndLoops\obj\Debug\net7.0\CollectionsAndLoops.pdb
+C:\Users\morga\OneDrive\Desktop\SoftwareDevelopment\ProgrammingC#\ProgrammingFoundationsCSharp\PFCSLesson03HandsOn\CollectionsAndLoops\obj\Debug\net7.0\CollectionsAndLoops.genruntimeconfig.cache
+C:\Users\morga\OneDrive\Desktop\SoftwareDevelopment\ProgrammingC#\ProgrammingFoundationsCSharp\PFCSLesson03HandsOn\CollectionsAndLoops\obj\Debug\net7.0\ref\CollectionsAndLoops.dll
